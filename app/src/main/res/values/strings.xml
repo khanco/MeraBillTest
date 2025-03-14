@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MeraBillTest</string>
+    <string name="total_amount"><![CDATA[<b>Total Amount = ₹ <font color=#000000>%,d</font><b>]]></string>
+    <string name="add_payment"><u>Add payment</u></string>
+    <string name="save">Save</string>
+    <string name="rupee_symbol">₹</string>
+    <string name="amount">Amount</string>
+    <string name="provider">Provider (ICICI Bank, Citibank etc)</string>
+    <string name="transaction_reference">Transaction reference</string>
+    <string name="ok">OK</string>
+    <string name="cancel" tools:ignore="ButtonCase">CANCEL</string>
+    <string name="payments">Payments</string>
+    <string name="no_payments">Added payments will appear here</string>
+    <string name="payment_amount">%s = ₹ %,d</string>
+    <string name="button">button</string>
+    <string name="all_payment_types_added">All payment types added</string>
+    <string name="data_already_saved">Data already saved</string>
+    <string name="all_records_deleted">All records deleted</string>
+    <string name="payment_added">%s payment added</string>
+    <string name="payment_removed">%s payment removed</string>
+    <string name="please_add_payment_to_save">Please add payment(s) to save</string>
+    <string name="payment_save_success">Payment(s) saved</string>
+    <string name="failed_to_save_data">Failed to save data</string>
+    <string name="saving">Saving…</string>
+    <string name="saved_payment_retrieved">Saved payment retrieved</string>
+    <string name="add_amount_to_save">Add amount to save</string>
+    <string name="unsaved_data">Unsaved data</string>
+    <string name="invalid_amount">Invalid amount (Maximum amount allowed %,d)</string>
+    <string name="amount_max_than_zero">Amount should be greater than zero</string>
+</resources>
